@@ -1,7 +1,7 @@
 ## Leetcode
 
-This is going to be a repo for all my solutions to leetcode problems.
+In this repo you can find some solutions to leetcode problems.
 
-I will be starting in two main languages: 
+At the beggining the solutions will be in two main languages: 
 - **Java**
 - **TypeScript**
